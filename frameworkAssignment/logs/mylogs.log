@@ -1,0 +1,513 @@
+20230216 08:33:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 08:33:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 08:34:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginWrongInputs
+20230216 08:34:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 08:35:58 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginWrongInputs
+20230216 08:36:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 08:38:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namelogin
+20230216 08:38:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 08:49:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 08:49:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 08:57:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 08:57:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 08:57:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 08:57:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 09:07:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 09:07:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java127 - going to th url = null
+20230216 13:45:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 13:45:38 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 13:45:59 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 13:46:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java210 - closing the browser
+20230216 13:46:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 13:46:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 13:47:12 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 13:47:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java210 - closing the browser
+20230216 13:48:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 13:48:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 13:48:50 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 13:48:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java210 - closing the browser
+20230216 13:56:38 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginEmptyPassword
+20230216 13:56:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 13:56:47 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 13:56:49 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginWrongInputs
+20230216 13:56:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 13:57:20 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 13:57:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java212 - closing the browser
+20230216 14:00:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginEmptyPassword
+20230216 14:00:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:00:59 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 14:07:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginEmptyPassword
+20230216 14:07:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:07:52 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 14:11:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginEmptyPassword
+20230216 14:11:42 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:12:04 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 14:18:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogin
+20230216 14:18:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:20:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogin
+20230216 14:20:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:23:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogin
+20230216 14:24:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:32:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogin
+20230216 14:32:51 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:34:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginEmptyPassword
+20230216 14:34:03 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:34:04 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java22 - inside logintoFirebase method
+20230216 14:34:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorLoginWrongInputs
+20230216 14:34:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:34:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:34:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java212 - closing the browser
+20230216 14:35:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogin
+20230216 14:35:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:39:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogin
+20230216 14:39:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to th url = https://login.salesforce.com
+20230216 14:51:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namelogin
+20230216 14:51:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:20:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:20:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:20:32 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:33:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 15:33:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:33:44 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java16 - inside logintoFirebase method
+20230216 15:33:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginWrongInputs
+20230216 15:33:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:33:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:39:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:39:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:39:50 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:42:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:42:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:42:39 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:43:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 15:43:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:43:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:43:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:44:08 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:45:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:45:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:46:14 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:49:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:49:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:49:40 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:52:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namerememberUserNameCheck
+20230216 15:52:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 15:52:33 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java57 - inside logintoFirebase method
+20230216 15:59:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameforgotPasswordCheck
+20230216 15:59:55 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:00:16 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java100 - inside logintoFirebase method
+20230216 16:00:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameforgotPasswordCheck
+20230216 16:00:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:01:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameforgotPasswordCheck
+20230216 16:01:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:02:19 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java100 - inside logintoFirebase method
+20230216 16:18:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameforgotPasswordCheck
+20230216 16:18:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:18:57 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java100 - inside logintoFirebase method
+20230216 16:21:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginWrongInputs
+20230216 16:21:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:22:20 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginWrongInputs
+20230216 16:22:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:22:44 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java124 - inside logintoFirebase method
+20230216 16:24:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namegoButton
+20230216 16:24:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:24:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:25:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java220 - closing the browser
+20230216 16:25:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namecreateNewOpty
+20230216 16:25:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:25:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:26:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java220 - closing the browser
+20230216 16:26:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginEmptyPassword
+20230216 16:26:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:26:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namecancelButtonCreateNewView
+20230216 16:26:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:29:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript namegoButton
+20230216 16:29:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:29:38 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:30:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java220 - closing the browser
+20230216 16:31:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameerrorLoginWrongInputs
+20230216 16:31:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:32:17 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java124 - inside logintoFirebase method
+20230216 16:33:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameforgotPasswordCheck
+20230216 16:33:03 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:33:07 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java100 - inside logintoFirebase method
+20230216 16:46:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameusermenuDropdown
+20230216 16:46:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:46:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java220 - closing the browser
+20230216 16:47:46 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameusermenuDropdown
+20230216 16:47:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:48:20 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java220 - closing the browser
+20230216 16:49:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameusermenuDropdown
+20230216 16:49:55 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:50:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java220 - closing the browser
+20230216 16:53:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameusermenuDropdown
+20230216 16:53:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 16:59:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java57 - started testscript nameusermenuDropdown
+20230216 16:59:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java130 - going to th url = https://login.salesforce.com
+20230216 20:28:03 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java58 - started testscript nameerrorLoginWrongInputs
+20230216 20:28:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java131 - going to th url = https://login.salesforce.com
+20230216 20:28:29 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java124 - inside logintoFirebase method
+20230216 20:29:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java58 - started testscript nameusermenuDropdown
+20230216 20:29:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java131 - going to th url = https://login.salesforce.com
+20230216 20:42:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameusermenuDropdown
+20230216 20:42:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java133 - going to th url = https://login.salesforce.com
+20230216 20:48:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameusermenuDropdown
+20230216 20:48:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java133 - going to th url = https://login.salesforce.com
+20230216 20:57:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namemySettings
+20230216 20:57:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java133 - going to th url = https://login.salesforce.com
+20230216 20:58:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namemySettings
+20230216 20:58:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java133 - going to th url = https://login.salesforce.com
+20230216 21:00:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namemySettings
+20230216 21:00:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namemySettings
+20230216 21:00:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java133 - going to th url = https://login.salesforce.com
+20230216 21:00:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java133 - going to th url = https://login.salesforce.com
+20230216 21:03:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript nameerrorLoginEmptyPassword
+20230216 21:03:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to th url = https://login.salesforce.com
+20230216 21:03:51 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java16 - inside logintoFirebase method
+20230216 21:04:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript nameusermenuDropdown
+20230216 21:04:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to th url = https://login.salesforce.com
+20230216 21:06:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript nameusermenuDropdown
+20230216 21:06:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to th url = https://login.salesforce.com
+20230216 21:10:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript namemySettings
+20230216 21:10:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to th url = https://login.salesforce.com
+20230216 21:12:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript namedevelopersConsole
+20230216 21:12:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to th url = https://login.salesforce.com
+20230216 21:13:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript namelogout
+20230216 21:13:42 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to th url = https://login.salesforce.com
+20230216 21:29:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java62 - started testscript namelogout
+20230216 21:29:58 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java135 - going to the url = https://login.salesforce.com
+20230216 21:34:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:34:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:36:51 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:36:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:41:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:41:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:42:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:42:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:46:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:46:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:49:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:49:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:51:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namelogout
+20230216 21:51:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 21:59:00 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameusermenuDropdown
+20230216 21:59:03 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:11:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountsLink
+20230216 22:11:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:15:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountsLink
+20230216 22:15:55 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:19:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:19:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:23:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:23:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:27:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:27:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:30:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:30:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:33:46 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:33:49 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:37:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:37:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:38:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:38:42 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:41:03 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:41:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:45:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:45:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:47:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:47:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:49:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:49:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:52:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:52:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:53:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230216 22:53:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:54:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230216 22:54:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:55:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namemergeAccounts
+20230216 22:55:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:56:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230216 22:56:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 22:59:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameopportunities
+20230216 22:59:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:02:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewOpty
+20230216 23:02:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:04:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namepipeLineReport
+20230216 23:04:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:05:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namestuckOportunitiesReport
+20230216 23:05:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namestuckOportunitiesReport
+20230216 23:06:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:06:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:07:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namequarterelySummaryReport
+20230216 23:07:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:09:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewOpty
+20230216 23:09:41 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:11:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewOpty
+20230216 23:11:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:13:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namepipeLineReport
+20230216 23:13:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:15:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namestuckOportunitiesReport
+20230216 23:15:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230216 23:17:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namequarterelySummaryReport
+20230216 23:17:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:20:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:20:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:31:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:31:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:33:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:33:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:34:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:34:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:35:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:35:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:36:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:36:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:38:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:38:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:40:42 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 08:40:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 08:42:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 08:42:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:03:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nametodaysLeads
+20230217 09:03:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:11:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 09:11:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:12:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 09:12:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:14:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 09:14:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:16:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 09:16:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:17:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 09:17:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:18:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 09:18:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:21:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 09:21:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 09:23:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 09:23:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:26:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 11:26:46 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:29:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nametodaysLeads
+20230217 11:29:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:30:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nametodaysLeads
+20230217 11:30:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:43:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nametodaysLeads
+20230217 11:43:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:45:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namenewLeadsButton
+20230217 11:45:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:45:46 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java93 - pass:lastName  element cleared
+20230217 11:45:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java93 - pass:company  element cleared
+20230217 11:48:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namenewLeadsButton
+20230217 11:48:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:48:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java93 - pass:lastName  element cleared
+20230217 11:48:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java93 - pass:company  element cleared
+20230217 11:49:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 11:49:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:49:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 11:49:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 11:55:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 11:55:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:09:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateContact
+20230217 12:09:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:10:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateContact
+20230217 12:10:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:12:10 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateContact
+20230217 12:12:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:13:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateContact
+20230217 12:13:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:16:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateContact
+20230217 12:16:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:21:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewView
+20230217 12:21:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:22:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewView
+20230217 12:22:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:23:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewView
+20230217 12:23:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:25:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewView
+20230217 12:25:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:30:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namerecentlyCreatedContact
+20230217 12:30:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:34:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namerecentlyCreatedContact
+20230217 12:34:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:37:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namemyContacts
+20230217 12:37:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:39:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecontactPage
+20230217 12:39:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:42:20 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorViewContact
+20230217 12:42:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:44:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecancelButtonCreateNewView
+20230217 12:44:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:45:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecancelButtonCreateNewView
+20230217 12:45:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 12:48:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namesaveNewButtonContact
+20230217 12:48:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 13:56:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 13:56:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 13:57:58 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 13:58:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:00:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 14:00:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:02:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 14:02:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:07:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:07:38 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:08:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:08:49 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:10:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 14:10:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:11:41 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:11:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:12:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:12:20 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:12:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:12:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:13:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:13:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:14:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:14:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:24:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:24:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:27:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:27:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 14:29:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 14:30:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:18:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namegoButton
+20230217 16:18:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:18:55 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsTabLink
+20230217 16:18:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:19:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameleadsView
+20230217 16:19:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:19:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namenewLeadsButton
+20230217 16:19:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:19:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java93 - pass:lastName  element cleared
+20230217 16:19:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java93 - pass:company  element cleared
+20230217 16:19:42 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nametodaysLeads
+20230217 16:19:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:25:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nametodaysLeads
+20230217 16:25:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:27:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 16:27:20 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:27:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountsLink
+20230217 16:27:41 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:27:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230217 16:27:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:28:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 16:28:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:28:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namemergeAccounts
+20230217 16:28:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:29:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecancelButtonCreateNewView
+20230217 16:29:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:29:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecontactPage
+20230217 16:29:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:29:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateContact
+20230217 16:29:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:30:00 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewView
+20230217 16:30:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:30:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameerrorViewContact
+20230217 16:30:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:30:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namemyContacts
+20230217 16:30:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:30:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namerecentlyCreatedContact
+20230217 16:30:42 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:30:51 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namesaveNewButtonContact
+20230217 16:30:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:31:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewOpty
+20230217 16:31:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:31:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameopportunities
+20230217 16:31:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:31:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namepipeLineReport
+20230217 16:32:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:32:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namequarterelySummaryReport
+20230217 16:32:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 16:32:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namestuckOportunitiesReport
+20230217 16:32:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:50:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 17:50:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:54:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 17:54:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:54:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 17:54:59 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:55:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 17:55:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:56:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 17:56:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:57:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlock
+20230217 17:57:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:57:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 17:57:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 17:59:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 17:59:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:00:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlock
+20230217 18:00:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:01:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 18:01:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:02:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 18:02:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:02:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstNameLastNameVerify
+20230217 18:02:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:03:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 18:03:58 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:06:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namefirstLastName
+20230217 18:06:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:07:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlock
+20230217 18:07:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:08:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 18:08:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:09:06 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountsLink
+20230217 18:09:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:10:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230217 18:10:55 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:13:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 18:13:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:13:57 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 18:14:00 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:15:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namemergeAccounts
+20230217 18:15:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:16:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 18:16:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 18:16:23 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:16:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 18:16:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 18:16:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:13:50 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230217 21:13:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:15:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230217 21:15:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:18:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230217 21:18:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:22:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript namecreateNewViewLink
+20230217 21:22:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:26:41 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 21:26:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:28:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 21:28:24 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:30:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 21:30:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:36:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeditView
+20230217 21:36:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:39:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 21:39:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:44:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 21:44:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 21:54:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameaccountReport
+20230217 21:54:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:00:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 22:00:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:02:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 22:02:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:03:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 22:03:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:06:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameverifyTabCustomization
+20230217 22:06:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:11:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 22:11:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:15:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 22:15:38 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:20:01 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 22:20:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:21:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 22:21:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:23:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 22:23:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com
+20230217 22:24:15 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java56 - started testscript nameeventBlockWeeklyRecurrence
+20230217 22:24:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java129 - going to the url = https://login.salesforce.com

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T22:24:13 PST" name="Default suite" finished-at="2023-02-17T22:24:43 PST" duration-ms="29241">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T22:24:13 PST" name="Default test" finished-at="2023-02-17T22:24:43 PST" duration-ms="29241">
+      <class name="org.tekarch.SalesForceTests.RandomScenariosTests">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:org.tekarch.SalesForceTests.RandomScenariosTests@4f80542f]" started-at="2023-02-17T22:24:14 PST" name="setUpBeforeTest" finished-at="2023-02-17T22:24:15 PST" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method is-config="true" signature="setupBeforeTestMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:org.tekarch.SalesForceTests.RandomScenariosTests@4f80542f]" started-at="2023-02-17T22:24:15 PST" name="setupBeforeTestMethod" finished-at="2023-02-17T22:24:19 PST" duration-ms="4099" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.tekarch.SalesForceTests.RandomScenariosTests.eventBlockWeeklyRecurrence() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeTestMethod -->
+        <test-method signature="eventBlockWeeklyRecurrence()[pri:0, instance:org.tekarch.SalesForceTests.RandomScenariosTests@4f80542f]" started-at="2023-02-17T22:24:19 PST" name="eventBlockWeeklyRecurrence" finished-at="2023-02-17T22:24:42 PST" duration-ms="22975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eventBlockWeeklyRecurrence -->
+        <test-method is-config="true" signature="teardownAfterTestMethod()[pri:0, instance:org.tekarch.SalesForceTests.RandomScenariosTests@4f80542f]" started-at="2023-02-17T22:24:42 PST" name="teardownAfterTestMethod" finished-at="2023-02-17T22:24:42 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTestMethod -->
+        <test-method is-config="true" signature="teardownAfterTest()[pri:0, instance:org.tekarch.SalesForceTests.RandomScenariosTests@4f80542f]" started-at="2023-02-17T22:24:42 PST" name="teardownAfterTest" finished-at="2023-02-17T22:24:43 PST" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterTest -->
+      </class> <!-- org.tekarch.SalesForceTests.RandomScenariosTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

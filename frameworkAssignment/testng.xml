@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.tekarch.SalesForceTests.LeadsTests"/>
+<!--     <class name="org.tekarch.SalesForceTests.CreateOptyTests"/>
+      <class name="org.tekarch.SalesForceTests.SFDCLoginTests"/>
+      <class name="org.tekarch.SalesForceTests.ContactsTests"/>
+      <class name="org.tekarch.SalesForceTests.RandomScenariosTests"/>
+      <class name="org.tekarch.SalesForceTests.UserMenuDropdownTests"/>
+      <class name="org.tekarch.SalesForceTests.CreateAccountTests"/>    -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
