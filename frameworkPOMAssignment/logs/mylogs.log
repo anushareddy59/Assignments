@@ -1,0 +1,318 @@
+20230219 17:30:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:30:41 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = null
+20230219 17:35:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:35:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = null
+20230219 17:39:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:39:39 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = null
+20230219 17:40:02 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:40:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = null
+20230219 17:44:51 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:44:54 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 17:44:54 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java19 - inside loginto SalesForce method
+20230219 17:51:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:51:25 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 17:51:26 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java19 - inside loginto SalesForce method
+20230219 17:51:28 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 17:51:28 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 17:51:28 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 17:51:28 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 17:51:29 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 17:58:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 17:58:56 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 17:58:57 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java19 - inside loginto SalesForce method
+20230219 17:58:59 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 17:58:59 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 17:58:59 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 17:58:59 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 17:59:00 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 18:07:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 18:07:36 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 18:07:37 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java19 - inside loginto SalesForce method
+20230219 18:07:39 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 18:07:39 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 18:07:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 18:07:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 18:07:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 18:14:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 18:14:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 18:14:14 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java19 - inside loginto SalesForce method
+20230219 18:14:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 18:14:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 18:14:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 18:14:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 18:14:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:22:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:22:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:22:38 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java48 - inside loginto SalesForce method
+20230219 19:22:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:22:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:22:41 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:22:41 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:22:42 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:23:16 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:23:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:23:19 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java48 - inside loginto SalesForce method
+20230219 19:23:22 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:23:22 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:23:22 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:23:22 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:23:23 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:23:49 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:23:52 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:23:52 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java48 - inside loginto SalesForce method
+20230219 19:23:57 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:23:57 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:23:57 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:23:57 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:23:57 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:31:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:31:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:31:07 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 19:31:11 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:31:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:31:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:31:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:31:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:40:32 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:40:35 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:40:36 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 19:40:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:40:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:40:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:40:40 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:40:41 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:46:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:46:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:46:07 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 19:46:11 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:46:11 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:46:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:46:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:46:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:52:38 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 19:52:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:52:41 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java20 - inside loginto SalesForce method
+20230219 19:52:44 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:52:44 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:52:44 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:52:44 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:52:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:53:18 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:53:21 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:53:21 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 19:53:26 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:53:26 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:53:26 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:53:26 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:53:29 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:55:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:55:34 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:55:34 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 19:55:38 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:55:38 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:55:39 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:55:39 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:55:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 19:56:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 19:56:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 19:56:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 19:56:49 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 19:56:53 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 19:56:53 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 19:56:53 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 19:56:53 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 19:56:55 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 20:00:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 20:00:07 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 20:00:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 20:00:11 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 20:00:12 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 20:00:12 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 20:00:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 20:00:18 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 20:00:23 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 20:00:25 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 20:04:51 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 20:04:53 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 20:04:54 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java49 - inside loginto SalesForce method
+20230219 20:04:58 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 20:04:58 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 20:04:58 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 20:04:58 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 20:05:01 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:01:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:01:13 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:01:13 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:01:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:01:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:01:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:01:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:01:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:01:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:01:20 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:02:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:02:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:02:31 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:02:32 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:02:32 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:02:32 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:02:33 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:02:33 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:02:35 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:02:38 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:04:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:04:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:04:44 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:04:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:04:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:04:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:04:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:04:45 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:04:48 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:04:51 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:04:53 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
+20230219 21:07:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:07:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:07:12 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:07:13 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:07:13 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:07:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:07:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:07:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:07:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:07:19 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:07:19 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
+20230219 21:16:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:16:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:16:48 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:16:48 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:16:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:16:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:16:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:16:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:16:51 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:16:54 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:16:55 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
+20230219 21:20:26 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:20:28 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:20:29 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:20:30 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:20:30 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:20:30 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:20:30 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:20:30 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:20:32 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:20:35 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:20:36 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
+20230219 21:32:37 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:32:40 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:32:40 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:32:41 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:32:41 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:32:42 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:32:42 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:32:42 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:32:44 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:32:47 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:32:47 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
+20230219 21:37:46 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 21:37:48 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 21:37:49 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 21:37:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 21:37:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 21:37:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 21:37:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 21:37:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 21:37:52 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 21:37:55 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 21:37:55 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
+20230219 22:57:22 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 22:57:27 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 22:57:28 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 22:58:55 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 22:58:58 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 22:58:59 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 23:00:41 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 23:00:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:00:45 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 23:00:46 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:00:46 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:02:09 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 23:02:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:02:13 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 23:02:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:02:14 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:02:15 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:forgotPassword element element clicked
+20230219 23:03:30 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 23:03:33 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:03:34 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 23:03:34 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:03:35 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:03:35 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:forgotPassword element element clicked
+20230219 23:05:05 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 23:05:08 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:05:09 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 23:05:10 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:05:10 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:05:12 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:forgotPassword element element clicked
+20230219 23:05:15 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:forgotUsername element  element cleared
+20230219 23:05:15 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in forgotUsername elementfield
+20230219 23:05:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:Continue Button element clicked
+20230219 23:18:44 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginWrongInputs
+20230219 23:18:47 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:18:48 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java133 - inside logintoSalesForce method
+20230219 23:18:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:18:49 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:18:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 23:18:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 23:18:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 23:26:00 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginEmptyPassword
+20230219 23:26:04 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:26:04 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java21 - inside loginto SalesForce method
+20230219 23:26:07 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:26:07 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:26:07 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 23:26:08 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 23:26:08 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 23:26:12 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameerrorLoginWrongInputs
+20230219 23:26:14 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:26:15 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java133 - inside logintoSalesForce method
+20230219 23:26:15 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:26:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:26:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 23:26:16 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 23:26:17 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 23:26:17 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript nameforgotPasswordCheck
+20230219 23:26:19 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:26:20 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java108 - inside logintoSalesForce method
+20230219 23:26:21 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:26:21 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:26:23 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:forgotPassword element element clicked
+20230219 23:26:26 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:forgotUsername element  element cleared
+20230219 23:26:26 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in forgotUsername elementfield
+20230219 23:26:29 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:Continue Button element clicked
+20230219 23:26:29 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namelogin
+20230219 23:26:31 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:26:32 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java50 - inside loginto SalesForce method
+20230219 23:26:36 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:26:37 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:26:37 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 23:26:37 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 23:26:39 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 23:26:43 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java60 - started testscript namerememberUserNameCheck
+20230219 23:26:45 INFO  [main] salesForceHelperTest.SalesForceHepler SalesForceHepler.java83 - going to th url = https://login.salesforce.com
+20230219 23:26:46 INFO  [main] SalesForceTests.SFDCLoginTests SFDCLoginTests.java74 - inside logintoSalesForce method
+20230219 23:26:47 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:username element  element cleared
+20230219 23:26:48 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in username elementfield
+20230219 23:26:48 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java62 - pass:password element  element cleared
+20230219 23:26:48 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java49 - text entered in password elementfield
+20230219 23:26:48 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:radio button element element clicked
+20230219 23:26:50 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:login button element element clicked
+20230219 23:26:54 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:profile icon element element clicked
+20230219 23:26:54 INFO  [main] salesForceHelperTest.SalesForceHelperPage SalesForceHelperPage.java75 - pass:logOutButton element element clicked
