@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="4" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-05T01:46:23 PST" name="Default suite" finished-at="2023-03-05T01:47:14 PST" duration-ms="50851">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2023-03-05T01:46:23 PST" name="Default test" finished-at="2023-03-05T01:47:14 PST" duration-ms="50851">
+      <class name="com.tekarch.runner.LoginRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:46:23 PST" name="setUpClass" finished-at="2023-03-05T01:46:24 PST" duration-ms="1218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@2842c098]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:46:24 PST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-05T01:46:35 PST" duration-ms="10906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with blank password"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Sales Force Login App"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:46:35 PST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-05T01:46:46 PST" duration-ms="10374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with valid Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Sales Force Login App"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:46:46 PST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-05T01:47:01 PST" duration-ms="15889" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Ensure Username is retained after logout"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Sales Force Login App"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [anu@tekarch.com] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [anu@tekarch.com] but found []
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.tekarch.steps.StepDefinationForSalesForce.username_field_contains(StepDefinationForSalesForce.java:138)
+at ✽.username field contains "anu@tekarch.com"(file:///C:/Users/Anusha/eclipse-workspace/FrameworkPOMCocumberAssignment/src/test/resources/login.feature:37)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:47:02 PST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-05T01:47:08 PST" duration-ms="6493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Ensure Forgot password link sends an email"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Sales Force Login App"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:47:08 PST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-03-05T01:47:14 PST" duration-ms="5695" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login with invalid Credentials"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Sales Force Login App"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.tekarch.runner.LoginRunner@18df8434]" started-at="2023-03-05T01:47:14 PST" name="tearDownClass" finished-at="2023-03-05T01:47:14 PST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.tekarch.runner.LoginRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
