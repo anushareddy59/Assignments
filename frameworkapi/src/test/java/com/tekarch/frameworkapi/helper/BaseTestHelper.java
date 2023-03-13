@@ -3,6 +3,7 @@ package com.tekarch.frameworkapi.helper;
 import org.testng.annotations.BeforeClass;
 
 import com.tekarch.frameworkapi.pojos.LoginCredentials;
+import com.tekarch.frameworkapi.utils.PropertiesUtil;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -12,11 +13,14 @@ public class BaseTestHelper {
 	
 	@BeforeClass
 	public void init() {
-		RestAssured.baseURI="https://us-central1-qa01-tekarch-accmanager.cloudfunctions.net";
+		PropertiesUtil.initProperties();
+		RestAssured.baseURI=PropertiesUtil.getProperty("url");
 	}
 	
 	public String getToken() {
-		LoginCredentials credPojo = new LoginCredentials("anushareddy.59@gmail.com", "anushareddy123"); 
+		String userName = PropertiesUtil.getProperty("username");
+		String password = PropertiesUtil.getProperty("password");
+		LoginCredentials credPojo = new LoginCredentials(userName, password); 
 		Response res = RestAssured
 				.given()
 					.log().headers()

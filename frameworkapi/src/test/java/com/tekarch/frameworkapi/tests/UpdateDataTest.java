@@ -13,7 +13,7 @@ import io.restassured.http.ContentType;
 import io.restassured.http.Header;
 import io.restassured.response.Response;
 
-public class UpdateData extends BaseTestHelper {
+public class UpdateDataTest extends BaseTestHelper {
 	
 	@Test()
 	public void updateUserData() {

@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.tekarch.frameworkapi.tests.UpdateData">
+      <class name="com.tekarch.frameworkapi.tests.LoginTest">
         <methods>
-          <include name="updateUserData"/>
+          <include name="logintoApi"/>
           <include name="init"/>
         </methods>
-      </class> <!-- com.tekarch.frameworkapi.tests.UpdateData -->
+      </class> <!-- com.tekarch.frameworkapi.tests.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

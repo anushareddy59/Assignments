@@ -4,6 +4,7 @@ import org.testng.annotations.Test;
 
 import com.tekarch.frameworkapi.helper.BaseTestHelper;
 import com.tekarch.frameworkapi.pojos.LoginCredentials;
+import com.tekarch.frameworkapi.utils.PropertiesUtil;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
@@ -14,7 +15,9 @@ public class LoginTest  extends BaseTestHelper {
 	@Test
 	public void logintoApi() {
 		
-		LoginCredentials credPojo = new LoginCredentials("anushareddy.59@gmail.com", "anushareddy123"); 
+		String userName = PropertiesUtil.getProperty("username");
+		String password = PropertiesUtil.getProperty("password");
+		LoginCredentials credPojo = new LoginCredentials(userName, password); 
 
 		Response res = RestAssured
 				.given()
