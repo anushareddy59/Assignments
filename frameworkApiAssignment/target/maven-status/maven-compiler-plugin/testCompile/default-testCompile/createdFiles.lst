@@ -1,0 +1,10 @@
+com\tekarch\frameworkapi\pojos\CreateEmployeeData.class
+com\tekarch\frameworkapi\helper\BaseTestHelper.class
+com\tekarch\frameworkapi\tests\GetEmployeeDetails.class
+com\tekarch\frameworkapi\constants\ConfigConstants.class
+com\tekarch\frameworkapi\pojos\GetEmployeeData.class
+com\tekarch\frameworkapi\tests\DeleteDataNullTest.class
+com\tekarch\frameworkapi\tests\GetEmployeeList.class
+com\tekarch\frameworkapi\tests\DeleteDataTest.class
+com\tekarch\frameworkapi\tests\CreateDataTest.class
+com\tekarch\frameworkapi\utils\PropertiesUtil.class

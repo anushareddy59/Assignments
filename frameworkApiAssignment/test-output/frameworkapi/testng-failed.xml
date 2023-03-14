@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [frameworkapi]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="tekarch(failed)">
+    <classes>
+      <class name="com.tekarch.frameworkapi.tests.CreateDataTest">
+        <methods>
+          <include name="init"/>
+          <include name="addUserData"/>
+        </methods>
+      </class> <!-- com.tekarch.frameworkapi.tests.CreateDataTest -->
+      <class name="com.tekarch.frameworkapi.tests.GetEmployeeList">
+        <methods>
+          <include name="init"/>
+          <include name="getUserData"/>
+        </methods>
+      </class> <!-- com.tekarch.frameworkapi.tests.GetEmployeeList -->
+      <class name="com.tekarch.frameworkapi.tests.GetEmployeeDetails">
+        <methods>
+          <include name="getUserData"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.tekarch.frameworkapi.tests.GetEmployeeDetails -->
+      <class name="com.tekarch.frameworkapi.tests.DeleteDataTest">
+        <methods>
+          <include name="init"/>
+          <include name="deleteUserData"/>
+        </methods>
+      </class> <!-- com.tekarch.frameworkapi.tests.DeleteDataTest -->
+      <class name="com.tekarch.frameworkapi.tests.DeleteDataNullTest">
+        <methods>
+          <include name="deleteUserData"/>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.tekarch.frameworkapi.tests.DeleteDataNullTest -->
+    </classes>
+  </test> <!-- tekarch(failed) -->
+</suite> <!-- Failed suite [frameworkapi] -->
