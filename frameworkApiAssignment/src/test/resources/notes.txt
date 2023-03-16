@@ -1,0 +1,84 @@
+Base uri = https://dummy.restapiexample.com/api/v1
+
+Testcase1:
+
+resouce endpoint =  /employees
+Http method=get
+
+get the reponse in POJO
+validate fallowing
+status code is 200
+response body status is "success"
+fetch the number of data records and print it to the console
+
+
+testcase 2:
+
+resouce endpoint =  /create
+Http method=post
+sample request
+{"name":"test","salary":"123","age":"23"}
+sample response 
+{
+    "status": "success",
+    "data": {
+        "name": "test",
+        "salary": "123",
+        "age": "23",
+        "id": 25
+    }
+}
+get the reponse in POJO
+status code is 2 00
+response body status is "success"
+verify the name,salary and age data from response is as same as in the request
+extract the id,print it to console and store it to send to next requests.
+
+
+testcase 3:
+
+resouce endpoint =  /delete/{id}
+get the id from create testcase 2
+Http method=delete
+sample response 
+{
+    "status": "",
+    "data": "",
+    "message": ""
+}
+validate for 
+status code is 200
+response body status is "success"
+id which you have entered in the path parameter is same as in the response
+fetch the message data and print it to console
+
+
+testcase 4:
+
+resouce endpoint =  /delete/{id}
+get the id=0
+Http method=delete
+sample response format
+{
+    "status": "",
+    "data": "",
+    "message": ""
+}
+validate for 
+status code is 400
+response body status is "error"
+fetch the message data and print it to console
+
+
+Testcase 5
+
+resouce endpoint =  /employee/{id}
+get the details of user whose id is 2
+Http method=get
+
+validate fallowing
+status code is 200
+content type is json
+employee name is Garrett Winters
+employee salary is 170750
+employee age is 63
